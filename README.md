@@ -1,4 +1,4 @@
 # firstcase
 This is my first repository
 <br>
-Author:Usama
+Author:Usama(tech)
